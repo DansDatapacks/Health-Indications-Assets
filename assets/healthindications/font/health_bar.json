@@ -6,7 +6,16 @@
 			"ascent": 8,
             "height": 9,
             "chars": [
-                "\ue068\ue069\ue070\ue071\ue072\ue073\ue074\ue075\ue076"
+                "\ue200\ue201\ue202\ue203\ue204\ue205\ue206\ue207\ue208"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "healthindications:gui/icon/absorption_heart.png",
+			"ascent": 8,
+            "height": 9,
+            "chars": [
+                "\ue209"
             ]
         }
     ]
