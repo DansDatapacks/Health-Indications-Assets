@@ -1,0 +1,29 @@
+{
+  "icon.healthindications.health_bar.full_left": "\ue068",
+  "icon.healthindications.health_bar.full_middle": "\ue069",
+  "icon.healthindications.health_bar.full_right": "\ue070",
+  "icon.healthindications.health_bar.half_left": "\ue071",
+  "icon.healthindications.health_bar.half_middle": "\ue072",
+  "icon.healthindications.health_bar.half_right": "\ue073",
+  "icon.healthindications.health_bar.empty_left": "\ue074",
+  "icon.healthindications.health_bar.empty_middle": "\ue075",
+  "icon.healthindications.health_bar.empty_right": "\ue076",
+  "icon.healthindications.health_bar.absorption": "\ue030",
+
+  "icon.healthindications.damage_indication.heart": "\ue020",
+  "icon.healthindications.damage_indication.absorption_heart": "\ue030",
+
+  "icon.healthindications.status_effect.poison": "\ue091",
+  "icon.healthindications.status_effect.wither": "\ue092",
+  "icon.healthindications.status_effect.resistance": "\ue093",
+  "icon.healthindications.status_effect.fire_resistance": "\ue094",
+  "icon.healthindications.status_effect.strength": "\ue095",
+  "icon.healthindications.status_effect.weakness": "\ue096",
+  "icon.healthindications.status_effect.speed": "\ue097",
+  "icon.healthindications.status_effect.slowness": "\ue098",
+  "icon.healthindications.status_effect.haste": "\ue099",
+  "icon.healthindications.status_effect.mining_fatigue": "\ue100",
+  "icon.healthindications.status_effect.blindness": "\ue101",
+  "icon.healthindications.status_effect.water_breathing": "\ue102",
+  "icon.healthindications.status_effect.regeneration": "\ue103"
+}
