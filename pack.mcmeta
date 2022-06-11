@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 8,
+		"pack_format": 9,
 		"description": [
 			{
 				"text": "Health Indications Assets ",
@@ -11,7 +11,7 @@
 				"color": "dark_green"
 			},
 			{
-				"text": "[1.18+] ",
+				"text": "[1.19+] ",
 				"color": "green"
 			},
 			{
